@@ -1,0 +1,211 @@
+23	161	911	Across The Universe
+24	209	979	Act Naturally
+21	201	962	A Hard Day's Night
+25	154	730	All I've Got To Do
+14	85	436	All My Loving
+16	91	429	All Together Now
+35	209	1026	All You Need Is Love
+24	103	455	And I Love Her
+12	106	526	And Your Bird Can Sing
+28	145	661	Anna (Go To Him)
+24	207	1048	Another Girl
+15	157	731	Any Time At All
+22	176	856	Ask Me Why
+11	92	490	A Taste Of Honey
+27	211	968	Baby It's You
+25	186	871	Baby's In Black
+32	191	899	Baby, You're A Rich Man
+28	180	910	Back In The U.S.S.R.
+21	188	974	Bad Boy
+9	55	323	Because
+21	149	810	Being For The Benefit Of Mr. Kite!
+19	96	541	Birthday
+18	124	657	Blackbird
+26	192	925	Blue Jay Way
+27	180	926	Boys
+13	144	666	Can't Buy Me Love
+12	70	360	Carry That Weight
+21	166	835	Chains
+19	153	761	Come Together
+42	222	1143	Cry Baby Cry
+12	112	522	Day Tripper
+18	116	595	Dear Prudence
+35	205	1010	Devil In Her Heart
+30	176	864	Dig A Pony
+9	65	294	Dig It
+30	165	843	Dizzy Miss Lizzie
+19	146	823	Doctor Robert
+21	200	1006	Don't Bother Me
+20	152	723	Don't Let Me Down
+29	168	802	Don't Pass Me By
+25	139	665	Do You Want To Know A Secret
+33	214	974	Drive My Car
+22	124	583	Eight Days A Week
+26	179	899	Eleanor Rigby
+28	169	754	Everybody's Got Something To Hide Except Me And My Monkey
+8	64	334	Everybody's Trying To Be My Baby
+27	148	740	Every Little Thing
+27	165	843	Fixing A Hole
+27	189	918	For No One
+14	118	566	For You Blue
+26	132	598	Free As A Bird
+28	189	872	From Me To You
+35	200	1039	Get Back
+23	160	796	Getting Better
+30	203	1025	Girl
+21	132	711	Glass Onion
+12	83	399	Golden Slumbers
+14	116	596	Good Day Sunshine
+26	202	1054	Good Morning, Good Morning
+21	104	562	Good Night
+28	210	940	Got To Get You Into My Life
+24	158	766	Happiness Is A Warm Gun
+29	226	1074	Hello, Goodbye
+27	230	1154	Help!
+29	233	1067	Helter Skelter
+20	145	757	Here Comes The Sun
+21	159	815	Here, There And Everywhere
+9	68	324	Her Majesty
+20	115	606	Hey Bulldog
+26	202	1020	Hey Jude
+34	181	910	Hold Me Tight
+18	128	669	Honey Don't
+24	140	679	Honey Pie
+34	259	1388	I Am The Walrus
+7	82	377	I Call Your Name
+24	198	942	I Don't Want To Spoil The Party
+24	166	794	I Feel Fine
+21	129	584	If I Fell
+23	148	675	If I Needed Someone
+13	165	751	I'll Be Back
+13	146	710	I'll Cry Instead
+17	127	606	I'll Follow The Sun
+26	183	868	I'll Get You
+27	188	821	I'm A Loser
+26	181	943	I'm Down
+22	154	767	I Me Mine
+33	229	1143	I'm Just Happy To Dance With You
+20	163	900	I'm Looking Through You
+26	190	1003	I'm Only Sleeping
+17	131	666	I'm So Tired
+10	117	551	I Need You
+21	146	756	In My Life
+26	177	882	I Saw Her Standing There
+8	94	434	I Should Have Known Better
+25	209	1018	It's All Too Much
+19	125	597	It's Only Love
+20	136	729	It Won't Be Long
+25	145	768	I've Got A Feeling
+41	195	1066	I've Just Seen A Face
+30	161	723	I Wanna Be Your Man
+30	181	887	I Want To Hold Your Hand
+22	137	644	I Want To Tell You
+4	12	53	I Want You (She's So Heavy)
+19	111	516	I Will
+16	113	560	Julia
+22	107	518	Komm, Gib Mir Deine Hand
+19	122	692	Lady Madonna
+30	242	1087	Let It Be
+18	95	498	Little Child
+14	81	355	Long, Long, Long
+30	153	876	Long Tall Sally
+24	155	768	Lovely Rita
+26	108	518	Love Me Do
+15	91	440	Love You To
+26	166	939	Lucy In The Sky With Diamonds
+8	55	278	Maggie Mae
+20	182	949	Magical Mystery Tour
+20	138	689	Martha My Dear
+30	181	946	Matchbox
+38	221	1293	Maxwell's Silver Hammer
+14	85	418	Mean Mr. Mustard
+46	187	875	Medley: Kansas City / Hey, Hey, Hey, Hey
+24	134	657	Michelle
+19	128	671	Misery
+36	226	1271	Money (That's What I Want)
+7	56	332	Mother Nature's Son
+9	83	441	Mr. Moonlight
+29	169	846	No Reply
+10	115	559	Norwegian Wood
+10	59	305	Not A Second Time
+23	131	696	Nowhere Man
+21	159	788	Ob-La-Di, Ob-La-Da
+26	177	897	Octopus's Garden
+24	162	805	Oh! Darling
+19	246	1252	Old Brown Shoe
+21	191	973	One After 909
+25	187	935	Only A Northern Song
+25	182	936	Paperback Writer
+32	234	1200	Penny Lane
+19	110	624	Piggies
+26	165	821	Please Mister Postman
+16	118	615	Please Please Me
+9	74	400	Polythene Pam
+30	155	789	P.S. I Love You
+24	156	808	Rain
+31	159	824	Real Love
+35	180	960	Revolution
+52	369	1768	Rock And Roll Music
+30	235	1187	Rocky Raccoon
+45	239	1262	Roll Over Beethoven
+36	233	1173	Run For Your Life
+26	166	912	Savoy Truffle
+25	173	866	Sexy Sadie
+25	168	935	Sgt. Pepper's Lonely Hearts Club Band
+15	79	548	Sgt. Pepper's Lonely Hearts Club Band (Reprise)
+20	125	654	She Came In Through The Bathroom Window
+42	231	1147	She Loves You
+22	178	935	She Said, She Said
+18	117	599	She's A Woman
+31	224	1232	She's Leaving Home
+26	130	678	Sie Liebt Dich
+22	175	935	Slow Down
+19	125	611	Something
+19	191	1054	Strawberry Fields Forever
+9	44	294	Sun King
+17	134	684	Taxman
+18	180	819	Tell Me What You See
+19	171	787	Tell Me Why
+28	146	682	Thank You Girl
+49	316	1688	The Ballad Of John And Yoko
+24	134	729	The Continuing Story Of Bungalow Bill
+6	28	125	The End
+19	132	629	The Fool On The Hill
+17	91	465	The Inner Light
+12	102	524	The Long And Winding Road
+23	199	982	The Night Before
+21	97	495	There's A Place
+30	192	952	The Word
+34	184	925	Things We Said Today
+33	192	975	Think For Yourself
+19	109	573	This Boy
+48	273	1389	Ticket To Ride
+21	130	622	Till There Was You
+14	101	509	Tomorrow Never Knows
+27	273	1424	Twist And Shout
+42	174	919	Two Of Us
+44	220	1083	Wait
+32	239	1112	We Can Work It Out
+36	214	951	What Goes On
+14	96	498	What You're Doing
+29	168	843	When I Get Home
+32	192	998	When I'm Sixty-Four
+19	131	690	While My Guitar Gently Weeps
+3	22	95	Why Don't We Do It In The Road?
+3	9	44	Wild Honey Pie
+29	232	1074	With A Little Help From My Friends
+17	153	860	Within You Without You
+8	53	250	Words Of Love
+36	221	1216	Yellow Submarine
+28	148	737	Yer Blues
+31	187	925	Yes It Is
+11	84	441	Yesterday
+24	166	856	You Can't Do That
+45	274	1274	You Know My Name (Look Up The Number)
+28	207	1060	You Like Me Too Much
+25	140	717	You Never Give Me Your Money
+32	185	825	You Really Got A Hold On Me
+28	181	941	You're Going To Lose That Girl
+27	181	1030	Your Mother Should Know
+20	112	536	You've Got To Hide Your Love Away
+44	207	992	You Won't See Me
